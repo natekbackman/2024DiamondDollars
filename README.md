@@ -18,4 +18,4 @@ The data used to create FOPA was Statcast pitch level data from 2020 to 2023 pro
 # Metric Analysis:
 
 The full 2023 FOPA leaderboards and player/team analysis can be found on an app created for this specific project: https://jjbalek.shinyapps.io/Case_Comp_Shiny_App/
-App was developed by Jake Balek
+(App was developed by Jake Balek)
